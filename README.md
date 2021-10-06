@@ -2,5 +2,5 @@
  Segundo parcial de Computación en la Nube
 
 Presentado por: 
-Juan Diego Bustamante
-Juan Camilo Renza
+- Juan Diego Bustamante
+- Juan Camilo Renza
